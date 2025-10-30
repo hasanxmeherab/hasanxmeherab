@@ -1,8 +1,8 @@
 
 <!-- BANNER IMAGE -->
-<a href="https://ibb.co.com/VWSQRKr2">
-    <img src="https://i.ibb.co.com/VWSQRKr2/banner.png" alt="banner" border="0">
-</a>
+<p align="center">
+  <img src="https://i.ibb.co.com/wFVyDSBH/Git-Hub-Banner.jpg" alt="Git-Hub-Banner" width="100%" />
+</p>
 
 <!-- HEADER SECTION -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078d7;">Meherab Hasan Fahim</span></h1>
