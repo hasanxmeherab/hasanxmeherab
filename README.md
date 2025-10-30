@@ -1,8 +1,8 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.ibb.co.com/xSjfW4PJ/banner.png"
-   alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co/xSjfW4PJ/banner.png"
+   alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- HEADER SECTION -->
