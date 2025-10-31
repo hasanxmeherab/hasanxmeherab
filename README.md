@@ -1,7 +1,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.ibb.co.com/wFVyDSBH/Git-Hub-Banner.jpg" alt="Git-Hub-Banner" width="100%" />
+  <img src="https://i.ibb.co.com/M52Y4cWh/Git-Hub-Banner.jpg" alt="Git-Hub-Banner" width="100%" />
 </p>
 
 <!-- HEADER SECTION -->
