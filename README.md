@@ -6,7 +6,7 @@
 
 <!-- HEADER SECTION -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078d7;">Meherab Hasan Fahim</span></h1>
-<h3 align="center">💻 MERN Stack Developer |  Turn Vision Into Seamless Web Reality Solutions</h3>
+<h3 align="center">💻 MERN Stack Developer |  Turn Vision Into Seamless Web Reality</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanxmeherab"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
