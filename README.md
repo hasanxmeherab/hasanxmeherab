@@ -98,7 +98,24 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 - **Overview:** A comprehensive MERN Stack project designed as an enterprise resource planning (ERP) system tailored specifically for the poultry feed industry. The application focuses on transactional integrity, specialized farming cycle tracking, and role-based inventory/sales management.   
 - **Tech Used:** React, Node.js, Express.js, MongoDB (Mongoose), Firebase Auth & Admin SDK, Material-UI (MUI), TanStack Query.  
 - **Features:** Secure Authentication & RBAC, Specialized Batch System, Inventory Control, Transaction Auditing, Wholesale Module, Printable Receipts, Dashboard
-- **Dependencies:** express, mongoose, firebase-admin, express-validator, dotenv, cors.   
+- **Dependencies:** express, mongoose, firebase-admin, express-validator, dotenv, cors.
+
+### 🧴 OneElixir (Perfume E-Commerce Platform)
+- **Overview:** A high-performance MERN Stack e-commerce solution specifically engineered for the luxury fragrance market. The platform bridges the gap between sophisticated brand storytelling and a robust retail engine, featuring an optimized checkout flow, real-time inventory synchronization, and a dedicated administrative suite for business scaling.
+
+- **Tech Used:** React.js, Node.js, Express.js, MongoDB (Atlas), Mongoose, Tailwind CSS, TanStack Query (React Query), Framer Motion.
+
+- **Features:** Dynamic Product Management: Full CRUD capabilities for fragrance listings with support for multiple scent profiles and volume variants.
+
+- Seamless Checkout & Cart: A persistent shopping cart experience integrated with a multi-step order placement system.
+
+- Secure RBAC: Role-Based Access Control ensuring distinct workflows for customers and store administrators.
+
+- Responsive UI/UX: A mobile-first, elegant design utilizing MUI for consistency and Framer Motion for premium-feel transitions.
+
+- Reliable Backend: A RESTful API built with robust error handling, data validation, and automated order status updates.
+
+- **Dependencies:** express, mongoose, firebase-auth, jsonwebtoken, cors, dotenv, express-validator, multer (for image processing).
 
 > 💡 Every project reflects my focus on clean UI, modular design, and scalable architecture.
 
