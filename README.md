@@ -82,9 +82,10 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=hasanxmeherab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
   
-  ## 📊 GitHub Stats
-![](https://marsalin-github-readme-stats.vercel.app/api?username=sayedulmorsalin&show_icons=true&theme=tokyonight)
-
+  <p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanxmeherab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
+  
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanxmeherab&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="150px" />
