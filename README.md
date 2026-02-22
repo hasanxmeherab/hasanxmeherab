@@ -82,9 +82,9 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=hasanxmeherab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
   
-  <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanxmeherab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
+  <!-- GitHub Streak (shows highest streak & total) -->
+  <img src="https://streak-stats.demolab.com?user=hasanxmeherab&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9C00&ring=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF" height="170px" />
+</p>
   
 <p align="center">
   <!-- Top Languages -->
