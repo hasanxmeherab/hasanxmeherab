@@ -100,7 +100,7 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 - **Features:** Secure Authentication & RBAC, Specialized Batch System, Inventory Control, Transaction Auditing, Wholesale Module, Printable Receipts, Dashboard
 - **Dependencies:** express, mongoose, firebase-admin, express-validator, dotenv, cors.
 
-### 🧴 OneElixir (Perfume E-Commerce Platform)
+### 🧴 [OneElixir (Perfume E-Commerce Platform)](https://oneelixir.vercel.app/).
 - **Overview:** A high-performance MERN Stack e-commerce solution specifically engineered for the luxury fragrance market. The platform bridges the gap between sophisticated brand storytelling and a robust retail engine, featuring an optimized checkout flow, real-time inventory synchronization, and a dedicated administrative suite for business scaling.
 
 - **Tech Used:** React.js, Node.js, Express.js, MongoDB (Atlas), Mongoose, Tailwind CSS, TanStack Query (React Query), Framer Motion.
